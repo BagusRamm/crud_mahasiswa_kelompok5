@@ -1,0 +1,9 @@
+body { font-family: Arial, sans-serif; background: #f4f6f8; }
+.container { width: 900px; margin: 0 auto; padding: 10px 20px; background: #fff; }
+nav ul { list-style: none; padding: 0; }
+nav li { display: inline-block; margin-right: 15px; }
+table { border-collapse: collapse; width: 100%; }
+th, td { padding: 6px 10px; }
+th { background: #e8ecf0; }
+.pesan { background-color: #E8F8E8; padding: 10px 15px; margin: 10px 0; border: 1px solid green; }
+.error { background-color: #FFECEC; padding: 10px 15px; margin: 3px 3px 20px 3px; border: 1px solid red; }
