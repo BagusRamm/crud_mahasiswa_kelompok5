@@ -4,6 +4,7 @@ Project praktikum Pengembangan Aplikasi Web (PHP dan MySQL) yang dikerjakan seca
 
 ## Anggota
 - Bagus Ramadhani
+- Aloysius Justin Kitanta
 
 ## Cara Menjalankan
 1. Clone repository ini ke folder htdocs
