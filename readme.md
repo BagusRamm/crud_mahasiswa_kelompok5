@@ -7,6 +7,8 @@ Project praktikum Pengembangan Aplikasi Web (PHP dan MySQL) yang dikerjakan seca
 - Aloysius Justin Kitanta
 - Reyhan Dathan Velni Arlistyo
 - Samuel Chritophel Manurung
+- Faizal Raffi
+
 
 ## Cara Menjalankan
 1. Clone repository ini ke folder htdocs
