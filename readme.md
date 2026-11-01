@@ -6,7 +6,7 @@ Project praktikum Pengembangan Aplikasi Web (PHP dan MySQL) yang dikerjakan seca
 - Bagus Ramadhani
 - Aloysius Justin Kitanta
 - Reyhan Dathan Velni Arlistyo
-- Samuel Chritophel Manurung
+- Samuel Christophel Manurung
 - Faizal Raffi
 
 
